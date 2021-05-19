@@ -17,4 +17,5 @@
 
 ## Competitions
 
+- [CAp/Criteo privacy-preserving data representation challenge](https://competitions.codalab.org/competitions/30003)
 - [Differential Privacy Temporal Map Challenge](https://www.drivendata.org/competitions/76/competition-differential-privacy-maps-3/page/329/)
