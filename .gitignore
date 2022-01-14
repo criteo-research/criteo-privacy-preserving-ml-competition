@@ -1,0 +1,9 @@
+# Virtual env
+.venv
+
+# Datesets 
+data/*.csv
+data/*.npz
+
+# Logs
+*.log
