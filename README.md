@@ -1,8 +1,10 @@
 # Criteo Privacy-preserving Machine Learning Competition @ AdKDD'21
 
-This repository contains useful code and documentation for the challenge.
-
-You can access the competition at http://go.criteo.net/criteo-privacy-preserving-ml-competition
+In the Criteo-AdKdd'21 competition, the goal was to learn a ML model from aggregated data.
+- You can access the competition at http://go.criteo.net/criteo-privacy-preserving-ml-competition
+- You can find an article summirizing the results and providing additional hinsights at https://arxiv.org/pdf/2201.13123.pdf
+- 
+This repository contains useful code and documentation for the challenge, and the notebooks to run the experiments reported in the research article.
 
 ## Related Works
 
